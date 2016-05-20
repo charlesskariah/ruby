@@ -57,4 +57,3 @@ keywords.  For example, this is a modifier-unless expression:
 <code>do ... end</code> blocks have lower priority.
 
 All other words in the precedence table above are keywords.
-
